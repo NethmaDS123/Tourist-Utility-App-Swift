@@ -26,7 +26,7 @@ class WeatherMapPlaceViewModel: ObservableObject {
     @Published var showAlert: Bool = false // Alert visibility
 
     // Weather API Key
-    private let apiKey = "e8a12cf5d11e92facae129c4afa330f3"
+    private let apiKey = "ADDKEYHERE"
 
     // MARK: - Initialization
     init() {
