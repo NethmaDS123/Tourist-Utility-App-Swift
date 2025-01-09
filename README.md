@@ -23,19 +23,23 @@ User-Friendly UI
 Designed with SwiftUI to deliver a seamless and visually consistent user experience. Features include scrollable weather views, pinned maps, and clean data formatting, following Apple’s UI/UX guidelines.
 
 Technology Stack
+
 SwiftUI: For building the app's user interface.
 CoreLocation: To manage and retrieve user location details.
 MapKit: For map rendering and displaying tourist attractions.
 OpenWeatherMap API: To fetch real-time weather and air quality data.
+
 Functional Requirements
 Display real-time weather and air quality data for a default location (London) on app launch.
 Seamless updates across all views when a new location is entered.
 Alerts for previously visited locations, invalid entries, and database updates.
 Fully responsive design with scrollable views for weather forecasts and attraction details.
+
 Non-Functional Requirements
 Adheres to Apple’s interface design guidelines.
 Ensures consistency in app interactions.
 Provides correctly formatted data and a visually polished UI.
+
 How to Run
 Clone this repository to your local machine.
 Open the project in Xcode (ensure you’re using the latest version compatible with SwiftUI).
