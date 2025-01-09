@@ -3,6 +3,14 @@
 Tourist Utility App: Real-Time Weather, Air Quality, and Tourist Attractions
 This SwiftUI-based Tourist Utility App provides real-time weather and air quality information for any location, along with a map highlighting the top 5 tourist attractions in the area. The app is designed to enhance user experience with seamless data updates, intuitive navigation, and visually appealing UI components.
 
+# Images
+
+<img width="262" alt="Screenshot 2025-01-09 at 15 37 09" src="https://github.com/user-attachments/assets/24692770-2331-4869-bb0c-7576ecf33cd8" />
+<img width="262" alt="Screenshot 2025-01-09 at 15 37 19" src="https://github.com/user-attachments/assets/b0094c27-1783-4965-b803-1bdbc5361519" />
+<img width="262" alt="Screenshot 2025-01-09 at 15 37 26" src="https://github.com/user-attachments/assets/c2f5b20f-b63a-4b98-a7e4-ffbc93e0f7ab" />
+
+
+
 Features
 Real-Time Weather and Air Quality Data
 Fetch accurate, up-to-date weather and air quality data using the OpenWeatherMap API. Display comprehensive details such as temperature, humidity, wind speed, and air quality indices.
